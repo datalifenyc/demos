@@ -7,7 +7,7 @@ Welcome to Sphinx Demo's documentation!
 =======================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 8
    :caption: Table of Contents
    :name: mastertoc
 
